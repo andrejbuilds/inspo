@@ -1,0 +1,8 @@
+AlgebraCards sitemap
+Page	Suggested URL	Purpose
+Homepage	/	Introduce the cards, show how they work, tell the founder’s story, share reviews, and help visitors choose a set.
+Algebra Cast	/podcasts/	Browse episodes by topic or card number and listen directly on the page.
+Contact	/contact/	Send a question about the cards, an order, or a school purchase through a simple form.
+Log In	/login/	Sign in to an existing account, with links to register or reset a password.
+Register	/register/	Create a customer account.
+My Account	/my-account/	View order history and manage account details and addresses.

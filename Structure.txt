@@ -1,0 +1,8 @@
+Order	Homepage section	What it communicates
+1	Introduce AlgebraCards	Show the printed cards and explain in one sentence what they are and who they’re for.
+2	Show how the cards work	Use the existing demonstration video so visitors can see how to find a topic and follow a worked example.
+3	Show the problem they solve	Focus on a familiar moment: a student understands one line of an equation but gets stuck on the next. Show how a card helps them understand what changed.
+4	Introduce the founder	Farnaz Ehtessabian developed the system in 2013 while teaching algebra and used it in her own classes. Her classroom experience is part of the reason to trust the product.
+5	Share genuine reviews	Follow the founder’s story with feedback from people who have used the cards. The founder and reviews can sit together in one section.
+6	Present the sets and invite purchase	Show the available sets, what topics each covers, and the price. Visitors can open an individual product page and add their chosen set to the cart.
+7	Close with the footer	Use a spacious footer with useful navigation and the quote: “Tell me and I will forget, show me and I may remember, involve me and I may understand.”

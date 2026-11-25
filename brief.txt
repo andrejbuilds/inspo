@@ -1,0 +1,9 @@
+I’m a web developer creating a demo redesign for AlgebraCards, an educational brand that sells printed, step-by-step algebra cards. The cards are organized by topic and include worked examples. Students can also listen to a corresponding audio explanation through Algebra Cast. Students use the product, parents may buy it for homework support, and teachers may use it in class.
+
+The founder is important to the story. Farnaz Ehtessabian developed the system in 2013 while teaching algebra and used it in her own classes. The current website has product covers, sample cards, a demonstration video, podcast episodes, and published testimonials we can draw from.
+
+The story I want the redesign to tell starts with a familiar homework moment. A student understands one line of an equation, looks at the next, and wonders, “How did they get there?” I want visitors to see how the student can find the relevant card, follow a worked example, and try that step on their own problem.
+
+The homepage should introduce the product, show how it works using the existing video, and illustrate the problem it solves. Then it should introduce Farnaz, share genuine feedback, and help visitors choose a set based on the topics they need. Algebra Cast should have its own listening page where students can find the explanation for the card in front of them. Product pages, contact, search, login, and cart should be straightforward.
+
+This is a concept demo we’re developing independently. Work with the available materials and make reasonable creative decisions. Treat the proposed website structure as my direction for the demo. Use the client’s published materials for product details, prices, quotes, and testimonials. The visual direction is open.
